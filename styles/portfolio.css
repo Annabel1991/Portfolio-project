@@ -96,6 +96,25 @@ p {
     text-align: center;
   }
 }
+.offer{
+  margin: 10px;
+  background: var(--secondary-color);
+  border-radius: 4px;
+  text-align: center;
+  padding: 12px;
+}
 
+h3{
+  font-size:40px ;
+}
+.icon{
+  border-radius: 50%;
+   background-color: var(--secondary-color);
+
+}
   
+  a{
+    text-decoration: none;
+    color: black;
+  }
   
