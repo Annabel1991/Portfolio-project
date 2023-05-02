@@ -95,6 +95,10 @@ p {
     padding: 0;
     text-align: center;
   }
+  .about-text  {
+    text-align: center;
+    padding: 0;
+  }
 }
 .offer{
   margin: 10px;
@@ -136,12 +140,5 @@ h3{
     border-radius: 4px;
     text-align: center;
     padding: 12px;
-  }
-  @media (max-width: 900px) {
-       
-    .introduction  {
-      text-align: center;
-      padding: 0;
-    }
   }
   
