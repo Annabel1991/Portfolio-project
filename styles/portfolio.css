@@ -113,15 +113,13 @@ p {
 h3{
   font-size:40px ;
 }
-.icon{
-  border-radius: 50%;
-   background-color: var(--secondary-color);
-
-}
-  
+ 
   a{
     text-decoration: none;
     color: black;
+  }
+  a:hover{
+    color:var(--branding-color)
   }
   .content-container {
     padding: 50px 20px;
@@ -180,6 +178,16 @@ h3{
     color: var(--branding-color);
   }
   
-
+.social-links a{
+margin:0 20px;
+background-color: var(--secondary-color);
+padding: 10px 15px;
+font-size: 18px;
+border-radius: 50%;
+transition: all ease-in-out 150ms ;
+}
+.social-links a:hover{
+  background-color: white;
+  }
  
   
