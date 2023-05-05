@@ -185,6 +185,7 @@ padding: 10px 15px;
 font-size: 18px;
 border-radius: 50%;
 transition: all ease-in-out 150ms ;
+margin-bottom: 20px;
 }
 .social-links a:hover{
   background-color: white;
