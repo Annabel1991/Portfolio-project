@@ -194,5 +194,11 @@ margin-bottom: 20px;
 .social-links a:hover{
   background-color: white;
   }
+  #signature{
+    font-size: 10px;
+    gap: 0.2rem;
+  color: grey;
+  padding: 2rem;
+  }
  
   
